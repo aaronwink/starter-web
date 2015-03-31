@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project to use GitHub.
+This is a simple website project to use GitHub. Updating content for stash
 
 ## Introduction
 
