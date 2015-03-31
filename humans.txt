@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aaron aaron.d.wink@gmail.com @aaronwink
 
 # THANKS
 
