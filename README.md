@@ -22,4 +22,4 @@ more text part 2.
 
 ### Copyright
 
-Copyright 2015
+Copyright 2015. All Rights Reserved.
