@@ -16,6 +16,8 @@ My deployment text...
 
 ## How to Contribute
 
+How to contribute text...
+
 ### Copyright
 
 Copyright 2015
