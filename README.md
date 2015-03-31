@@ -12,4 +12,6 @@ My purpose goes here...
 
 ##Deployment
 
+My deployment text...
+
 ## How to Contribute
