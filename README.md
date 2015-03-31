@@ -15,3 +15,7 @@ My purpose goes here...
 My deployment text...
 
 ## How to Contribute
+
+### Copyright
+
+Copyright 2015
