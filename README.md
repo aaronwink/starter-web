@@ -5,7 +5,7 @@ This is a simple website project to use GitHub.
 ## Introduction
 
 Here is my intro text...
-adding more text.
+adding more text, and more changes from my feature branch
 
 ## Purpose
 
